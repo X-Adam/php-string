@@ -1,0 +1,23 @@
+{
+    "name": "x-adam/string",
+    "description": "PHP string helper package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehmet ÖĞMEN",
+            "email": "www@mehmetogmen.com.tr",
+            "homepage": "https://www.mehmetogmen.com.tr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
+    "autoload": {
+        "files": [
+            "./src/String.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
