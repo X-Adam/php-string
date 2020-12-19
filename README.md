@@ -18,12 +18,12 @@ PHP string helper package.
 
 ## Requirements
 
-PHP >=5.0. Other than that, this library has no requirements.
+PHP >=7.0. Other than that, this library has no requirements.
 
 ## Install
 
 ```bash
-$ composer require x-adam/string:"~1.0"
+$ composer require x-adam/string:"~2.0"
 ```
 
 ## Example Usage
